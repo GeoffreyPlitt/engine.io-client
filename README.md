@@ -1,4 +1,4 @@
-
+ 
 # Engine.IO client with React Native compatibility
 
 [![NPM version](https://badge.fury.io/js/engine.io-client.svg)](http://badge.fury.io/js/engine.io-client)
